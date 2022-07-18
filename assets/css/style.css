@@ -1,0 +1,113 @@
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+
+body{
+    font-family: "Computer Modern Sans",  system-ui, sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+hr {
+    border: none;
+    margin: auto;
+    background-color: rgb(36, 30, 30);
+    border-color: rgb(36, 30, 30);
+    height: 1px;
+    /*margin-top: 1%;*/
+    margin-bottom: 2%;
+}
+
+.header-title{
+    font-size:  20px;
+    font-weight: bold;
+    margin: 3% 1% 1% 1%;
+}
+
+.header-description{
+    font-size: 16px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.principal-bar{
+    margin-top: 2%;
+    margin-bottom: auto;
+}
+
+.bar{
+    font-size: 90%;
+}
+
+.footer{
+    font-size: 9px;
+}
+
+#section-title{
+    font-size: large;
+    text-align: justify;
+    color: rgb(41, 41, 155);
+}
+
+#section-description{
+    text-align: justify;
+}
+
+#lists{
+    margin-left: 2em;
+}
+
+#img-header{
+    display: block;
+    margin: auto;
+}
+
+/* resume style */
+#subtitle{
+    margin: auto;
+    margin-bottom: 2%;
+    font-size: 14px;
+}
+
+#content-resume{
+    font-size: 85%;
+    margin: auto;
+    text-align: justify;
+}
+
+.header-resume{
+    color: rgb(41, 41, 155);
+    font-size: 30px;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+
+}
+
+h2{
+    color: rgb(41, 41, 155);
+    font-size: 100%;
+    font-weight: 400;
+    font-weight: bold;
+
+}
+
+h3{
+    font-size: 95%;
+    font-weight: 350;
+    margin: auto;
+}
+
+ul{
+    margin-bottom: 5px;
+}
+
+#section-title-resume{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#list-resume{
+    font-size: 80%;
+    text-align: justify;
+}
